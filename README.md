@@ -15,4 +15,4 @@ This page is divided into three to four parts:
 
 4. Fourth is a simple footer, that consist of the link to the Wikipedia page.
 
-![image alt] (https://github.com/bhupeshsinha/the-tribute-website/blob/main/Screenshot%20(200).png?raw=true)
+![image alt](https://github.com/bhupeshsinha/the-tribute-website/blob/1ea3086afc9919b70a783a46bac4c8863dcece67/Screenshot%20(200).png)
